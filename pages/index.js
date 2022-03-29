@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to Applitools Next
+          Welcome to Applitools + Next
         </h1>
 
         <p className={styles.description}>
