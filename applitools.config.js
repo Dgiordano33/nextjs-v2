@@ -1,5 +1,5 @@
 module.exports = {
-    testConcurrency: 1,
+    testConcurrency: 5,
     apiKey: 'APPLITOOLS_API_KEY',
     browser: [
         // Add browsers with different viewports
@@ -13,5 +13,5 @@ module.exports = {
         {deviceName: 'Pixel 2', screenOrientation: 'portrait'}
     ],
     // set batch name to the configuration
-    batchName: 'Next Tutorial Testing'
+    batchName: 'Ultrafast Batch'
 }
