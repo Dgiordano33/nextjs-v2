@@ -6,7 +6,7 @@ describe('My First Test', () => {
       cy.eyesOpen({
         appName: 'Next App',
         testName: 'Hero Headline',
-    })
+    });
 
       cy.eyesCheckWindow({
         tag: "Homepage",
